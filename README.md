@@ -2,6 +2,7 @@
 
 - [English](README.md)
 - [Bahasa Indonesia](README.id.md)
+- [Japanase coming soon](README.jp.md)
 
 To read the README in Bahasa Indonesia, please open the file [README-ID.md](README-ID.md).
 
